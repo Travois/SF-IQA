@@ -4,7 +4,7 @@ SF-IQA: Quality and Similarity Integration for AI Generated Image Quality Assess
 
 > Accepted by CVPR2024 Workshop 
 
-![image](https://github.com/USTC-IMCL/SwinIQA/blob/main/fig/SwinIQA.png)
+![image](https://github.com/Travois/SF-IQA/blob/main/method.png)
 
 ## Overview
 
