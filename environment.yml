@@ -1,0 +1,20 @@
+name: AIGC_yag
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.18  
+  - pytorch=2.2.0
+  - torchvision=0.17.0
+  - torchaudio=2.2.0
+  - cudatoolkit=11.8 
+  - pip  
+  - pip:
+    - timm==0.6.13
+    - transformers==4.38.2
+    - pandas
+    - numpy
+    - Pillow
+    - openpyxl

@@ -1,0 +1,1 @@
+python test.py --use_gpu --gpu_id 0 --datasets datasets_path --infopath info_path --batch_size 4 --save_dir output_path
