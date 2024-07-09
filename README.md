@@ -16,6 +16,12 @@ Different environment may induce possible fluctuation of performance.
 
 Before executing the program, it's crucial to prepare the environment to meet the software dependencies required.
 
+### Download the files to the folder
+
+Download [weights_dict.pt](https://rec.ustc.edu.cn/share/d4b86c90-3e09-11ef-a8bf-6358f51f862b) to SF-IQA/pretrained
+
+Download [model.safetensors](https://rec.ustc.edu.cn/share/8d69ccd0-3e0a-11ef-aa31-2b14741a59d0) to SF-IQA/pretrained/PickScore_v1
+
 ### Creating a New Conda Environment
 
 To create a new environment with all the necessary dependencies, run the following command:
